@@ -1,16 +1,18 @@
-## Hi there 👋
+# Yo! 🎤
 
-<!--
-**oneironRunner632/oneironRunner632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **oneironRunner632**, a site reliability engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Lifelong learner
+- 💬 Ask me anything about code
+- ⚡ Fun fact: I write code while drinking coffee
+- 🌱 Always learning new things
+
+## Tech
+
+`MongoDB` `Kafka` `Kotlin` `Vim` `Next.js` `Linux`
+
+---
+
+_Refactor often._
